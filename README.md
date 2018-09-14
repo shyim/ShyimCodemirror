@@ -1,0 +1,1 @@
+Simple plugin which replaces in backend all tinymce fields with a html codemirror
